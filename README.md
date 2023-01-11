@@ -1,4 +1,4 @@
-# SimpleBlockchain
+# Simple Proof of Work Blockchain
 Simple, functional blockchain program using proof of work algorithm
 
 Command-line compilation:
